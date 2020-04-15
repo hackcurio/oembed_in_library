@@ -1,0 +1,2 @@
+#oembed_in_library_preview {max-width:400px; min-height: 300px; height:auto !important;  height: 300px; }
+#oembed_in_library_preview.loading {background: url(../img/ajax-loader.gif) no-repeat 50% 50%;}

@@ -1,0 +1,57 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/oembed-in-library\n"
+"POT-Creation-Date: 2013-07-26 13:35:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: index.php:152
+msgid "Embed in Library"
+msgstr ""
+
+#: index.php:152
+msgid "oEmbed"
+msgstr ""
+
+#: index.php:164
+msgid "Use this form to add an external media in your library."
+msgstr ""
+
+#: index.php:168
+msgid "URL"
+msgstr ""
+
+#: index.php:171
+msgid "Preview"
+msgstr ""
+
+#: index.php:172
+msgid "Add in library"
+msgstr ""
+
+#: index.php:215
+msgid "No provider found for this URL."
+msgstr ""
+
+#: index.php:221
+msgid "Bad response from the provider for this URL."
+msgstr ""
+
+#: index.php:236
+msgid "An error occured during media saving."
+msgstr ""
+
+#: index.php:239
+msgid "Media inserted in library with success."
+msgstr ""
+
+#: index.php:239
+msgid "View"
+msgstr ""
